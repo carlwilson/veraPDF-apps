@@ -11,13 +11,9 @@ The veraPDF PDF/A Validation Library is dual-licensed, see:
 
 CI Status
 ---------
-- [![Build Status](https://travis-ci.org/veraPDF/veraPDF-library.svg?branch=master)](https://travis-ci.org/veraPDF/veraPDF-library "veraPDF-library Travis-CI master branch build") Travis-CI: `master`
+- [![Build Status](https://travis-ci.org/carlwilson/veraPDF-library.svg?branch=release-0.12)](https://travis-ci.org/carlwilson/veraPDF-library "veraPDF-library Travis-CI") Travis-CI: `release-0.12`
 
-- [![Build Status](https://travis-ci.org/veraPDF/veraPDF-library.svg?branch=integration)](https://travis-ci.org/veraPDF/veraPDF-library "veraPDF-library Travis-CI integration build") Travis-CI: `integration`
-
-- [![Build Status](http://jenkins.opf-labs.org/buildStatus/icon?job=veraPDF-library-0.8)](http://jenkins.opf-labs.org/job/veraPDF-library-0.8/) OPF Jenkins: `release-0.8`
-
-- [![Build Status](http://jenkins.opf-labs.org/buildStatus/icon?job=veraPDF-library-0.9-mvn)](http://jenkins.opf-labs.org/job/veraPDF-library-0.9-mvn/) OPF Jenkins: `integration`
+- [![Build Status](http://jenkins.opf-labs.org/buildStatus/icon?job=veraPDF-library-0.12)](http://jenkins.opf-labs.org/job/veraPDF-library-0.8/) OPF Jenkins: `release-0.8`
 
 Getting veraPDF software
 ------------------------
